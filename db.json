@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "eb32",
+      "name": "Dr. Genevieve Heaney"
+    },
+    {
+      "id": "e58a",
+      "name": "Ms. Lori Hermann"
+    },
+    {
+      "id": "24e9",
+      "name": "Alfred Parker"
+    },
+    {
+      "id": "8b41",
+      "name": "Bobby Powlowski"
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
