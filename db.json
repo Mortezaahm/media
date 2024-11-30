@@ -1,22 +1,72 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     },
     {
       "id": "e4f6",
       "name": "Amber Bayer"
+    },
+    {
+      "id": "70b6",
+      "name": "Marco Bauch I"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "b3c1",
+      "userId": "3",
+      "title": "Incredible Fresh Gloves"
+    },
+    {
+      "id": "c47d",
+      "userId": "3",
+      "title": "Bespoke Steel Mouse"
+    },
+    {
+      "id": "dc5e",
+      "userId": "3",
+      "title": "Gorgeous Wooden Cheese"
+    },
+    {
+      "id": "ac58",
+      "userId": "3",
+      "title": "Licensed Soft Salad"
+    },
+    {
+      "id": "d17b",
+      "userId": "1",
+      "title": "Handmade Soft Computer"
+    },
+    {
+      "id": "a713",
+      "userId": "70b6",
+      "title": "Modern Granite Mouse"
+    },
+    {
+      "id": "2861",
+      "userId": "1",
+      "title": "Practical Rubber Towels"
+    },
+    {
+      "id": "7835",
+      "userId": "1",
+      "title": "Sleek Rubber Tuna"
+    },
+    {
+      "id": "fd2d",
+      "userId": "e4f6",
+      "title": "Bespoke Bronze Tuna"
+    }
+  ],
   "photos": []
 }
