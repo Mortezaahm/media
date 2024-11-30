@@ -68,5 +68,16 @@
       "title": "Bespoke Bronze Tuna"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "0a6e",
+      "albumId": "d17b",
+      "url": "https://picsum.photos/seed/G203wLN/2726/2706"
+    },
+    {
+      "id": "3e5a",
+      "albumId": "d17b",
+      "url": "https://loremflickr.com/1102/3388?lock=2840150852412930"
+    }
+  ]
 }
